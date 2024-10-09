@@ -1,0 +1,28 @@
+.choose-mode{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 30%;
+    position: absolute;
+    bottom: 30px
+}
+
+.choose-mode-button{
+    padding: 15px 30px;
+    border-radius: 5px;
+    background-color: #333;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s;
+    border: none;
+    font-size: 1.8rem;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.choose-mode-button:hover{
+    background-color: #555;
+}
+
+.choose-mode-button:active{
+    transform: scale(0.95);
+}
