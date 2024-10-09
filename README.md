@@ -1,2 +1,2 @@
 # mini-projects
-some of my pet projects (most functional but unfinished), 
+some of my pet projects (most working but unfinished)
